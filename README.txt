@@ -1,0 +1,25 @@
+This is where the Skipper CAD will be stored. Please consult the great and powerful Mr. Katz before making any changes, and then please document all changes made to the change log because not everyone (me) knows how to use git properly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
